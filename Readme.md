@@ -7,7 +7,7 @@
    3D representation of biological networks using graph theory.
 </p>
 
-**[Github Repository](https://github.com/pperuzzo/PPIN)** | [Demo](https://youtu.be/Ib3AAOYMbTI)
+[Demo](https://youtu.be/Ib3AAOYMbTI)
 
 ## Table of Contents
 
